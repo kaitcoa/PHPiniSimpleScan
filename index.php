@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* This script is for testing potentially bad configured PHP.INI file.
+* Script scanns for bad configuration.
 * It warns you what is best practice. 
 * I wrote it for my own purposes. 
 * Version 0.1
