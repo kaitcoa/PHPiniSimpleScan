@@ -1,12 +1,12 @@
 <?php
 /*
 *
-*
-*
-*
-*
-*
-*
+* This script is for testing potentially bad configured PHP.INI file.
+* It warns you what is best practice. 
+* I wrote it for my own purposes. 
+* Version 0.1
+* @author Aleksandar Kaitovic 
+* @mail coakait990@gmail.com
 *
 */
 if(!is_callable('ini_get') || !is_callable('get_defined_functions')){
