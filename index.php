@@ -1,5 +1,5 @@
 <?php
-/*
+/**
 *
 * This script is for testing potentially bad configured PHP.INI file.
 * It warns you what is best practice. 
