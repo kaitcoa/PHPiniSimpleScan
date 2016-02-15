@@ -8,6 +8,7 @@
 * @author Aleksandar Kaitovic 
 * @mail coakait990@gmail.com
 * @copyright Aleksandar Kaitovic 15.02.2016
+* Thanks nemanjan00 for some ideas.
 */
 if(!is_callable('ini_get') || !is_callable('get_defined_functions')){
 	die("Ini_get and get_defined_functions must be enabled");
